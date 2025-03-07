@@ -27,4 +27,3 @@ public class Control {
         }
     }
 }
->>>>>>> refs/heads/lpc2191
